@@ -1,0 +1,16 @@
+:root {
+  --color-primary: #009688;
+  --color-secondary: #edf3f3;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  scroll-behavior: smooth;
+}
+/*# sourceMappingURL=styles.css.map */
